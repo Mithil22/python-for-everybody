@@ -82,7 +82,7 @@ git config --global user.email "your.email@example.com"
 
 ## Progress Tracking
 
-- [ ] Chapter 1: Introduction
+- [x] Chapter 1: Introduction
 - [ ] Chapter 2: Variables
 - [ ] Chapter 3: Conditionals
 - [ ] Chapter 4: Functions

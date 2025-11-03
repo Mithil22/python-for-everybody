@@ -1,0 +1,22 @@
+# Python Learning Journey - Required Packages
+
+# Jupyter notebook support
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.27.1
+
+# Data science essentials
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualization
+matplotlib==3.8.2
+
+# Enhanced interactive Python
+ipython==8.18.1
+
+# Code formatting (optional but recommended)
+black==23.12.1
+
+# Linting (optional but recommended)
+pylint==3.0.3

@@ -45,6 +45,3 @@ notes/private/
 .env
 .env.local
 
-# Some MD files
-SETUP_GUIDE.md
-VENV_SETUP_GUIDE.md
